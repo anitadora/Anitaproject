@@ -1,0 +1,3 @@
+18:46:34:526 [TestNG-tests-1] DEBUG freemarker.cache - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ranja/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+18:46:34:534 [TestNG-tests-1] DEBUG freemarker.cache - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:46:34:536 [TestNG-tests-1] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found

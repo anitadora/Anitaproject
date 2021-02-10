@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 76.689 s <<< FAILURE! - in TestSuite
+reviewPage(AnitaProjectDD.validateReview)  Time elapsed: 15.472 s  <<< FAILURE!
+java.lang.AssertionError: expected [write review] but found []
+	at AnitaProjectDD.validateReview.reviewPage(validateReview.java:77)
+
